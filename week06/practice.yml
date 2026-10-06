@@ -1,0 +1,7 @@
+name: practice
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - python=3.14
+prefix: /Users/matshovland/miniforge3/envs/practice
